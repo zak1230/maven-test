@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:vm="http://www.mulesoft.org/schema/mule/vm" xmlns:http="http://www.mulesoft.org/schema/mule/http"
+	xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
+http://www.mulesoft.org/schema/mule/vm http://www.mulesoft.org/schema/mule/vm/current/mule-vm.xsd">
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="75145b9c-252e-4c36-9e5d-e372e662de12" >
+		<http:listener-connection host="localhost" port="8081" />
+	</http:listener-config>
+	<vm:config name="VM_Config" doc:name="VM Config" doc:id="4273de8b-38fa-4dc0-baef-a8a56ff40783" >
+		<vm:queues >
+			<vm:queue queueName="VmQueue5" />
+		</vm:queues>
+	</vm:config>
+	<flow name="mulesyncflowFlow" doc:id="f847c336-72ca-40a9-84e2-ed193e76294e" >
+		<http:listener doc:name="Listener" doc:id="5fee7613-9812-4e0f-9503-d00095d54a48" config-ref="HTTP_Listener_config" path="/mulesync"/>
+		<set-variable value="#[message.attributes.queryParams.param]" doc:name="Set Variable" doc:id="74655f23-b5ed-4a84-b561-1fd86380ee92" variableName="var1"/>
+		<vm:publish-consume doc:name="Publish consume" doc:id="2a719e2a-db58-44aa-8d72-c7da239c5d08" config-ref="VM_Config" queueName="VmQueue5" timeoutUnit="MINUTES"/>
+		<logger level="INFO" doc:name="Logger" doc:id="fc3c00df-14da-4c82-bf3d-6bff2ba27a69" message="#[payload]"/>
+	</flow>
+	<flow name="mulesyncflowFlow1" doc:id="b00a25ed-241a-4f9a-b5e6-e9a6410d62af" >
+		<vm:listener queueName="VmQueue5" doc:name="Listener" doc:id="b2643eda-2fd1-4359-9c5a-bfcb47823058" config-ref="VM_Config" timeoutUnit="MINUTES">
+			<vm:response >
+				<vm:content ><![CDATA[#['This is message from flow2']]]></vm:content>
+			</vm:response>
+		</vm:listener>
+		<logger level="INFO" doc:name="Logger" doc:id="83a3ee10-4017-43eb-946a-024834272591" message="#[payload]"/>
+		<set-payload value="This is changed payload" doc:name="Set Payload" doc:id="178039e8-77d4-44ec-80d1-2e1972a8e9f8" />
+	</flow>
+</mule>
