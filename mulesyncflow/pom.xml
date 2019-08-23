@@ -5,7 +5,7 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>mulesyncflow</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>mule</packaging>
+    <packaging>mule-application</packaging>
 
 	<name>mulesyncflow</name>
 
