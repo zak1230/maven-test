@@ -26,6 +26,15 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+				<executions>
+  <execution>
+    <id>deploy</id>
+    <phase>deploy</phase>
+    <goals>
+      <goal>deploy</goal>
+    </goals>
+  </execution>
+</executions>
 				<deploymentType>cloudhub</deploymentType>
                     <muleVersion>4.1.4</muleVersion>
                     <username>lem28</username>
