@@ -31,7 +31,7 @@
       <muleVersion>4.1.4</muleVersion>
       <username>devops12</username>
       <password>Aymen1230</password>
-      <applicationName>helloworld9</applicationName>
+      <applicationName>hellworld9</applicationName>
       <environment>Sandbox</environment>
       <properties>
         <key>value</key>
