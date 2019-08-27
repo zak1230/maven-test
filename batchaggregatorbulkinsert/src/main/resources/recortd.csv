@@ -1,0 +1,10 @@
+Item,SalesChannel,OrderPriority
+food,Online,M
+Snacks,Offline,C
+Beverages,Offline,C
+Cereal,Offline,L
+Snacks,Offline,C
+Personal Care,Offline,L
+Clothes,Offline,H
+Clothes,Online,M
+Clothes,Offline,M

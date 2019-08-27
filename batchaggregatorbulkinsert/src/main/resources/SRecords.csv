@@ -1,0 +1,2164 @@
+Item,SalesChannel,OrderPriority
+Baby Food,Online,M
+Snacks,Offline,C
+Beverages,Offline,C
+Cereal,Offline,L
+Snacks,Offline,C
+Personal Care,Offline,L
+Clothes,Offline,H
+Clothes,Online,M
+Clothes,Offline,M
+Baby Food,Online,M
+Office Supplies,Offline,C
+Cosmetics,Online,M
+Cereal,Offline,L
+Cosmetics,Offline,H
+Baby Food,Online,L
+Meat,Offline,H
+Cereal,Offline,C
+Office Supplies,Online,L
+Beverages,Online,C
+Baby Food,Offline,C
+Beverages,Offline,L
+Baby Food,Offline,M
+Fruits,Online,L
+Beverages,Offline,L
+Snacks,Offline,L
+Cereal,Online,H
+Fruits,Offline,L
+Office Supplies,Online,M
+Baby Food,Online,M
+Snacks,Online,C
+Cosmetics,Offline,H
+Clothes,Offline,M
+Clothes,Online,H
+Meat,Online,L
+Fruits,Online,H
+Cereal,Online,M
+Cosmetics,Offline,C
+Vegetables,Offline,L
+Personal Care,Online,L
+Clothes,Offline,L
+Meat,Online,L
+Personal Care,Offline,L
+Meat,Online,L
+Snacks,Online,C
+Baby Food,Offline,M
+Office Supplies,Offline,C
+Cosmetics,Offline,M
+Household,Offline,M
+Beverages,Online,H
+Baby Food,Online,M
+Snacks,Online,M
+Office Supplies,Online,H
+Office Supplies,Online,H
+Household,Offline,H
+Clothes,Offline,M
+Vegetables,Offline,H
+Clothes,Online,M
+Personal Care,Offline,H
+Cereal,Offline,L
+Meat,Online,M
+Cereal,Online,L
+Beverages,Online,L
+Baby Food,Online,C
+Vegetables,Offline,H
+Household,Online,H
+Baby Food,Online,M
+Snacks,Online,C
+Beverages,Online,H
+Clothes,Offline,H
+Beverages,Online,M
+Clothes,Offline,M
+Meat,Offline,M
+Meat,Online,H
+Baby Food,Offline,C
+Beverages,Online,C
+Office Supplies,Online,H
+Fruits,Online,M
+Office Supplies,Online,L
+Household,Online,H
+Household,Online,M
+Baby Food,Offline,H
+Office Supplies,Online,H
+Cereal,Online,H
+Household,Online,H
+Cosmetics,Online,H
+Cosmetics,Online,C
+Meat,Online,H
+Meat,Offline,M
+Beverages,Online,L
+Beverages,Offline,H
+Cereal,Online,H
+Office Supplies,Online,H
+Office Supplies,Online,M
+Snacks,Online,H
+Cereal,Online,C
+Household,Offline,L
+Beverages,Offline,L
+Fruits,Online,L
+Household,Offline,C
+Meat,Online,L
+Household,Online,L
+Vegetables,Offline,C
+Cosmetics,Online,L
+Cereal,Offline,H
+Beverages,Online,C
+Fruits,Offline,L
+Personal Care,Offline,M
+Household,Online,M
+Clothes,Offline,L
+Fruits,Online,H
+Vegetables,Online,M
+Office Supplies,Offline,M
+Office Supplies,Offline,H
+Personal Care,Online,M
+Personal Care,Offline,M
+Household,Offline,H
+Fruits,Offline,M
+Office Supplies,Offline,M
+Personal Care,Online,L
+Office Supplies,Online,L
+Office Supplies,Offline,H
+Baby Food,Offline,H
+Office Supplies,Online,C
+Cosmetics,Online,C
+Cereal,Online,M
+Personal Care,Online,L
+Meat,Offline,M
+Beverages,Offline,C
+Meat,Offline,L
+Vegetables,Online,H
+Snacks,Online,H
+Beverages,Online,C
+Beverages,Online,M
+Meat,Offline,M
+Snacks,Online,H
+Meat,Online,L
+Meat,Online,C
+Fruits,Online,M
+Personal Care,Offline,M
+Clothes,Online,M
+Meat,Online,M
+Snacks,Offline,L
+Office Supplies,Online,C
+Baby Food,Online,H
+Cosmetics,Online,L
+Meat,Offline,L
+Office Supplies,Online,C
+Office Supplies,Offline,C
+Household,Offline,C
+Meat,Online,L
+Beverages,Online,H
+Fruits,Offline,M
+Cosmetics,Offline,C
+Beverages,Online,L
+Cereal,Online,C
+Household,Online,H
+Cereal,Online,C
+Cereal,Online,C
+Cosmetics,Offline,H
+Snacks,Offline,H
+Office Supplies,Online,L
+Cosmetics,Online,H
+Vegetables,Offline,L
+Cereal,Online,C
+Office Supplies,Offline,L
+Office Supplies,Online,L
+Snacks,Online,C
+Household,Offline,H
+Meat,Online,M
+Cereal,Online,H
+Beverages,Offline,L
+Household,Offline,H
+Household,Online,M
+Fruits,Online,L
+Clothes,Online,C
+Office Supplies,Offline,L
+Cosmetics,Online,M
+Vegetables,Online,L
+Personal Care,Offline,L
+Baby Food,Online,M
+Vegetables,Offline,L
+Vegetables,Offline,C
+Personal Care,Online,H
+Snacks,Online,M
+Vegetables,Online,C
+Household,Offline,H
+Cereal,Offline,H
+Beverages,Online,M
+Vegetables,Offline,M
+Office Supplies,Offline,C
+Cosmetics,Offline,H
+Personal Care,Offline,H
+Personal Care,Offline,H
+Snacks,Offline,H
+Cereal,Online,L
+Cereal,Offline,C
+Fruits,Online,H
+Cosmetics,Offline,L
+Cosmetics,Online,C
+Household,Offline,H
+Household,Offline,M
+Household,Offline,M
+Meat,Online,H
+Vegetables,Online,C
+Baby Food,Offline,C
+Meat,Offline,L
+Office Supplies,Online,C
+Personal Care,Offline,H
+Meat,Online,L
+Snacks,Offline,M
+Baby Food,Offline,L
+Office Supplies,Offline,L
+Vegetables,Offline,C
+Baby Food,Online,C
+Personal Care,Online,M
+Cosmetics,Offline,C
+Household,Online,M
+Cosmetics,Offline,L
+Vegetables,Offline,C
+Baby Food,Online,L
+Snacks,Offline,M
+Meat,Online,C
+Office Supplies,Offline,M
+Cosmetics,Online,C
+Baby Food,Online,C
+Vegetables,Offline,C
+Cosmetics,Online,C
+Beverages,Offline,L
+Office Supplies,Offline,C
+Clothes,Online,M
+Clothes,Online,M
+Office Supplies,Offline,H
+Fruits,Offline,M
+Cereal,Online,L
+Office Supplies,Online,C
+Snacks,Online,M
+Clothes,Offline,M
+Meat,Online,L
+Vegetables,Online,L
+Meat,Online,M
+Cereal,Offline,H
+Fruits,Online,H
+Clothes,Offline,H
+Personal Care,Offline,C
+Personal Care,Offline,M
+Meat,Offline,L
+Snacks,Online,C
+Vegetables,Offline,M
+Vegetables,Online,H
+Office Supplies,Online,L
+Snacks,Online,C
+Beverages,Online,M
+Household,Online,C
+Office Supplies,Offline,L
+Baby Food,Online,H
+Personal Care,Offline,M
+Clothes,Online,H
+Personal Care,Offline,M
+Personal Care,Offline,L
+Meat,Offline,M
+Snacks,Offline,H
+Cereal,Offline,H
+Household,Offline,H
+Beverages,Offline,H
+Cereal,Online,C
+Fruits,Offline,L
+Personal Care,Offline,H
+Cosmetics,Online,C
+Clothes,Offline,M
+Vegetables,Online,H
+Personal Care,Offline,M
+Fruits,Online,M
+Baby Food,Offline,C
+Vegetables,Online,L
+Clothes,Online,C
+Personal Care,Online,C
+Cosmetics,Online,H
+Clothes,Online,H
+Vegetables,Offline,C
+Fruits,Online,L
+Vegetables,Online,M
+Personal Care,Online,L
+Household,Offline,M
+Personal Care,Online,H
+Snacks,Offline,M
+Cereal,Online,M
+Beverages,Offline,H
+Household,Offline,C
+Snacks,Offline,M
+Personal Care,Offline,C
+Fruits,Offline,M
+Beverages,Offline,C
+Meat,Offline,L
+Fruits,Offline,L
+Beverages,Online,M
+Vegetables,Offline,C
+Cosmetics,Online,L
+Fruits,Online,L
+Cereal,Online,L
+Fruits,Online,C
+Baby Food,Offline,L
+Beverages,Online,L
+Cereal,Online,L
+Snacks,Online,M
+Cosmetics,Online,C
+Vegetables,Online,H
+Baby Food,Offline,H
+Vegetables,Online,C
+Baby Food,Offline,M
+Clothes,Offline,L
+Fruits,Online,H
+Baby Food,Offline,L
+Personal Care,Online,L
+Meat,Online,M
+Snacks,Online,H
+Cereal,Offline,C
+Fruits,Offline,M
+Personal Care,Online,L
+Cereal,Online,L
+Household,Offline,M
+Cosmetics,Offline,H
+Meat,Offline,H
+Cosmetics,Online,L
+Cereal,Offline,H
+Meat,Online,M
+Fruits,Online,H
+Office Supplies,Offline,L
+Meat,Offline,M
+Personal Care,Offline,L
+Cereal,Offline,M
+Snacks,Offline,M
+Cereal,Online,C
+Personal Care,Online,M
+Vegetables,Online,H
+Beverages,Offline,H
+Cosmetics,Offline,C
+Household,Offline,M
+Cereal,Online,H
+Household,Offline,M
+Beverages,Offline,L
+Cosmetics,Online,C
+Personal Care,Offline,C
+Vegetables,Offline,C
+Personal Care,Online,L
+Cosmetics,Offline,L
+Cosmetics,Offline,H
+Fruits,Offline,H
+Vegetables,Online,H
+Baby Food,Online,L
+Beverages,Offline,C
+Meat,Offline,H
+Office Supplies,Offline,M
+Snacks,Offline,M
+Cereal,Online,M
+Office Supplies,Online,M
+Baby Food,Online,H
+Snacks,Offline,M
+Baby Food,Offline,H
+Cosmetics,Online,M
+Office Supplies,Offline,L
+Vegetables,Offline,H
+Household,Online,C
+Beverages,Offline,L
+Clothes,Offline,L
+Meat,Online,M
+Meat,Online,H
+Baby Food,Online,C
+Vegetables,Offline,L
+Meat,Online,H
+Personal Care,Online,H
+Personal Care,Offline,H
+Vegetables,Online,H
+Personal Care,Offline,L
+Fruits,Online,H
+Snacks,Online,L
+Beverages,Offline,M
+Cereal,Offline,L
+Household,Offline,L
+Baby Food,Offline,M
+Office Supplies,Online,M
+Baby Food,Online,M
+Baby Food,Offline,C
+Vegetables,Online,H
+Baby Food,Offline,M
+Clothes,Online,C
+Personal Care,Online,H
+Baby Food,Offline,H
+Snacks,Offline,H
+Office Supplies,Offline,C
+Meat,Offline,M
+Fruits,Offline,L
+Cosmetics,Offline,C
+Vegetables,Offline,C
+Cereal,Offline,M
+Vegetables,Offline,H
+Fruits,Offline,M
+Household,Offline,L
+Meat,Offline,H
+Office Supplies,Offline,H
+Fruits,Online,C
+Personal Care,Online,H
+Beverages,Offline,H
+Clothes,Online,M
+Meat,Online,M
+Vegetables,Online,L
+Household,Online,C
+Personal Care,Online,C
+Cereal,Offline,C
+Cosmetics,Online,H
+Beverages,Online,C
+Baby Food,Offline,H
+Fruits,Online,L
+Vegetables,Online,M
+Beverages,Offline,C
+Vegetables,Online,L
+Vegetables,Online,H
+Baby Food,Online,L
+Snacks,Online,C
+Snacks,Online,M
+Office Supplies,Online,C
+Vegetables,Offline,C
+Snacks,Online,H
+Household,Offline,C
+Clothes,Offline,C
+Household,Offline,H
+Fruits,Online,M
+Baby Food,Offline,C
+Meat,Online,C
+Cereal,Online,M
+Fruits,Offline,C
+Cosmetics,Offline,L
+Baby Food,Offline,H
+Baby Food,Offline,L
+Cereal,Offline,L
+Fruits,Offline,L
+Meat,Offline,L
+Office Supplies,Online,H
+Beverages,Online,L
+Personal Care,Offline,L
+Baby Food,Online,M
+Household,Online,C
+Baby Food,Online,C
+Vegetables,Offline,H
+Beverages,Offline,M
+Baby Food,Online,L
+Personal Care,Online,L
+Clothes,Offline,H
+Office Supplies,Online,C
+Meat,Offline,L
+Snacks,Offline,M
+Baby Food,Offline,H
+Clothes,Offline,L
+Personal Care,Online,C
+Baby Food,Online,C
+Vegetables,Offline,L
+Cereal,Online,L
+Fruits,Offline,M
+Fruits,Online,M
+Baby Food,Offline,H
+Personal Care,Offline,H
+Beverages,Online,M
+Snacks,Offline,L
+Cosmetics,Offline,M
+Personal Care,Online,H
+Household,Offline,M
+Baby Food,Online,H
+Cereal,Online,M
+Fruits,Online,L
+Clothes,Online,C
+Baby Food,Online,M
+Beverages,Offline,M
+Clothes,Offline,L
+Office Supplies,Offline,C
+Beverages,Online,C
+Beverages,Offline,M
+Office Supplies,Offline,H
+Beverages,Offline,H
+Cereal,Online,H
+Office Supplies,Online,H
+Office Supplies,Offline,H
+Vegetables,Online,H
+Household,Offline,C
+Office Supplies,Online,C
+Beverages,Offline,C
+Baby Food,Offline,M
+Beverages,Offline,M
+Vegetables,Offline,C
+Cosmetics,Online,M
+Cosmetics,Offline,H
+Baby Food,Online,M
+Fruits,Offline,L
+Office Supplies,Offline,M
+Beverages,Offline,L
+Fruits,Offline,H
+Office Supplies,Offline,L
+Beverages,Offline,H
+Household,Offline,L
+Clothes,Offline,L
+Cosmetics,Online,L
+Snacks,Offline,M
+Office Supplies,Online,H
+Snacks,Online,L
+Personal Care,Online,L
+Vegetables,Offline,L
+Meat,Offline,M
+Personal Care,Offline,L
+Snacks,Offline,C
+Household,Offline,L
+Cereal,Offline,H
+Vegetables,Offline,L
+Vegetables,Online,M
+Cosmetics,Online,M
+Meat,Offline,C
+Vegetables,Online,H
+Cosmetics,Offline,H
+Snacks,Online,H
+Snacks,Online,H
+Household,Online,L
+Personal Care,Offline,H
+Cosmetics,Offline,C
+Vegetables,Online,H
+Personal Care,Offline,H
+Snacks,Online,M
+Cereal,Online,H
+Vegetables,Offline,H
+Office Supplies,Offline,M
+Cereal,Offline,H
+Cereal,Online,L
+Beverages,Online,C
+Fruits,Online,L
+Meat,Offline,C
+Cosmetics,Online,H
+Vegetables,Online,L
+Office Supplies,Offline,C
+Meat,Online,M
+Household,Online,L
+Snacks,Online,H
+Cereal,Offline,M
+Cereal,Online,C
+Clothes,Offline,H
+Personal Care,Online,M
+Office Supplies,Online,L
+Personal Care,Online,H
+Household,Offline,L
+Beverages,Offline,C
+Clothes,Online,H
+Fruits,Offline,C
+Household,Offline,M
+Beverages,Online,H
+Cosmetics,Online,C
+Cosmetics,Online,C
+Snacks,Online,H
+Snacks,Offline,L
+Baby Food,Online,L
+Household,Online,L
+Personal Care,Online,H
+Baby Food,Offline,H
+Office Supplies,Online,M
+Beverages,Online,C
+Baby Food,Offline,H
+Meat,Online,L
+Personal Care,Offline,L
+Fruits,Offline,L
+Vegetables,Online,L
+Personal Care,Offline,M
+Snacks,Online,H
+Household,Offline,H
+Clothes,Online,M
+Meat,Offline,H
+Vegetables,Online,L
+Personal Care,Offline,M
+Personal Care,Offline,H
+Office Supplies,Offline,H
+Vegetables,Offline,L
+Cosmetics,Offline,H
+Baby Food,Online,L
+Household,Online,M
+Beverages,Online,H
+Personal Care,Offline,L
+Cosmetics,Online,H
+Vegetables,Online,L
+Meat,Offline,C
+Baby Food,Online,C
+Office Supplies,Online,H
+Household,Online,M
+Cosmetics,Online,C
+Snacks,Offline,H
+Snacks,Offline,L
+Beverages,Offline,M
+Cosmetics,Offline,M
+Cosmetics,Offline,C
+Clothes,Offline,L
+Vegetables,Offline,L
+Clothes,Online,M
+Cosmetics,Offline,L
+Fruits,Offline,C
+Cereal,Online,M
+Cereal,Online,C
+Fruits,Offline,M
+Household,Offline,C
+Office Supplies,Offline,M
+Office Supplies,Offline,H
+Office Supplies,Online,C
+Fruits,Online,M
+Meat,Offline,H
+Baby Food,Online,L
+Baby Food,Online,M
+Cosmetics,Online,M
+Household,Online,C
+Baby Food,Offline,C
+Cosmetics,Offline,C
+Meat,Offline,C
+Baby Food,Offline,M
+Personal Care,Offline,L
+Fruits,Offline,M
+Clothes,Offline,H
+Clothes,Online,M
+Cosmetics,Offline,H
+Fruits,Offline,C
+Beverages,Online,H
+Cosmetics,Online,C
+Clothes,Online,H
+Household,Online,M
+Fruits,Offline,L
+Meat,Online,H
+Household,Offline,H
+Meat,Online,H
+Baby Food,Online,H
+Beverages,Offline,C
+Cereal,Online,L
+Baby Food,Online,C
+Office Supplies,Online,H
+Household,Offline,H
+Fruits,Offline,H
+Meat,Offline,C
+Household,Online,H
+Beverages,Online,M
+Office Supplies,Offline,M
+Cosmetics,Offline,H
+Cereal,Online,C
+Baby Food,Online,H
+Clothes,Offline,M
+Cereal,Online,M
+Household,Offline,M
+Baby Food,Online,L
+Meat,Online,M
+Household,Offline,H
+Snacks,Offline,C
+Cosmetics,Offline,C
+Beverages,Offline,H
+Cereal,Online,C
+Clothes,Online,M
+Clothes,Online,C
+Cereal,Offline,C
+Office Supplies,Offline,H
+Personal Care,Online,L
+Baby Food,Offline,C
+Vegetables,Online,L
+Cereal,Online,C
+Personal Care,Offline,H
+Cereal,Online,L
+Beverages,Online,M
+Cosmetics,Online,C
+Beverages,Online,M
+Fruits,Online,M
+Beverages,Online,H
+Beverages,Offline,H
+Beverages,Online,C
+Household,Online,C
+Clothes,Online,C
+Personal Care,Online,H
+Clothes,Offline,M
+Personal Care,Online,M
+Office Supplies,Online,L
+Vegetables,Online,M
+Household,Online,C
+Fruits,Online,C
+Fruits,Offline,L
+Office Supplies,Online,H
+Clothes,Online,L
+Snacks,Offline,L
+Meat,Offline,C
+Cereal,Online,M
+Vegetables,Offline,M
+Personal Care,Offline,H
+Fruits,Offline,M
+Meat,Online,M
+Household,Offline,L
+Clothes,Online,C
+Beverages,Online,C
+Beverages,Offline,C
+Beverages,Online,C
+Meat,Offline,L
+Meat,Online,L
+Personal Care,Offline,C
+Fruits,Offline,M
+Cereal,Offline,L
+Office Supplies,Online,L
+Personal Care,Offline,C
+Baby Food,Offline,M
+Household,Online,C
+Clothes,Online,H
+Vegetables,Online,M
+Fruits,Online,L
+Meat,Offline,H
+Snacks,Offline,C
+Snacks,Offline,L
+Office Supplies,Offline,H
+Snacks,Online,L
+Clothes,Offline,H
+Meat,Online,M
+Meat,Offline,H
+Snacks,Offline,L
+Snacks,Online,L
+Office Supplies,Online,H
+Snacks,Offline,M
+Clothes,Online,C
+Fruits,Online,L
+Beverages,Online,C
+Personal Care,Online,H
+Snacks,Online,H
+Cosmetics,Offline,C
+Cereal,Online,H
+Cereal,Online,M
+Fruits,Offline,H
+Beverages,Online,C
+Fruits,Offline,L
+Office Supplies,Offline,M
+Cosmetics,Online,M
+Household,Offline,M
+Personal Care,Offline,L
+Snacks,Online,L
+Beverages,Online,H
+Household,Online,M
+Vegetables,Online,C
+Personal Care,Offline,L
+Household,Online,H
+Baby Food,Online,C
+Household,Online,H
+Beverages,Offline,H
+Household,Offline,C
+Cereal,Online,H
+Snacks,Offline,H
+Baby Food,Offline,M
+Cereal,Online,C
+Baby Food,Online,H
+Cereal,Online,M
+Cereal,Offline,H
+Cosmetics,Online,L
+Baby Food,Offline,L
+Personal Care,Online,L
+Vegetables,Offline,L
+Cosmetics,Online,C
+Vegetables,Offline,C
+Personal Care,Offline,C
+Baby Food,Online,C
+Fruits,Offline,C
+Cosmetics,Online,C
+Fruits,Offline,M
+Vegetables,Offline,C
+Personal Care,Online,M
+Clothes,Online,L
+Beverages,Offline,H
+Meat,Online,C
+Meat,Offline,L
+Fruits,Offline,M
+Household,Online,C
+Clothes,Online,M
+Cosmetics,Offline,L
+Baby Food,Offline,C
+Snacks,Online,C
+Fruits,Online,H
+Snacks,Online,H
+Cosmetics,Online,H
+Meat,Offline,H
+Vegetables,Online,M
+Household,Online,L
+Beverages,Offline,M
+Baby Food,Online,C
+Cereal,Offline,L
+Beverages,Offline,C
+Personal Care,Online,L
+Personal Care,Online,L
+Snacks,Offline,C
+Snacks,Online,C
+Cosmetics,Offline,L
+Vegetables,Online,C
+Clothes,Online,H
+Meat,Offline,C
+Cosmetics,Offline,C
+Personal Care,Offline,L
+Baby Food,Offline,L
+Vegetables,Offline,C
+Personal Care,Online,C
+Meat,Offline,L
+Beverages,Online,C
+Office Supplies,Offline,L
+Clothes,Online,H
+Fruits,Online,H
+Household,Offline,H
+Baby Food,Online,M
+Snacks,Offline,M
+Cosmetics,Offline,H
+Office Supplies,Online,L
+Vegetables,Offline,C
+Cereal,Online,C
+Meat,Online,L
+Office Supplies,Online,M
+Personal Care,Offline,L
+Household,Online,M
+Fruits,Offline,L
+Beverages,Offline,H
+Baby Food,Offline,M
+Beverages,Offline,M
+Snacks,Online,H
+Cosmetics,Online,H
+Clothes,Online,M
+Beverages,Offline,M
+Office Supplies,Online,M
+Fruits,Online,M
+Cosmetics,Offline,M
+Beverages,Offline,M
+Cosmetics,Offline,H
+Meat,Offline,C
+Vegetables,Offline,M
+Fruits,Offline,C
+Vegetables,Online,L
+Cosmetics,Online,L
+Personal Care,Online,C
+Baby Food,Offline,C
+Fruits,Online,L
+Vegetables,Online,C
+Cereal,Offline,M
+Office Supplies,Offline,C
+Beverages,Offline,L
+Vegetables,Offline,H
+Cereal,Offline,H
+Clothes,Offline,L
+Household,Online,H
+Vegetables,Online,H
+Clothes,Online,H
+Fruits,Offline,M
+Snacks,Offline,L
+Personal Care,Offline,M
+Vegetables,Offline,M
+Baby Food,Offline,C
+Office Supplies,Offline,C
+Fruits,Online,H
+Baby Food,Offline,H
+Office Supplies,Offline,L
+Clothes,Online,C
+Personal Care,Offline,M
+Cereal,Online,H
+Personal Care,Online,H
+Cereal,Online,C
+Snacks,Online,H
+Household,Offline,M
+Household,Offline,C
+Personal Care,Offline,C
+Cosmetics,Online,M
+Cereal,Offline,M
+Baby Food,Online,M
+Office Supplies,Offline,L
+Snacks,Online,H
+Meat,Offline,L
+Snacks,Offline,M
+Beverages,Offline,M
+Cereal,Online,L
+Cosmetics,Online,M
+Fruits,Offline,C
+Fruits,Offline,H
+Baby Food,Offline,L
+Cosmetics,Offline,L
+Personal Care,Online,M
+Household,Online,H
+Baby Food,Offline,M
+Beverages,Offline,L
+Baby Food,Offline,H
+Fruits,Online,C
+Cosmetics,Online,C
+Personal Care,Offline,H
+Household,Offline,C
+Office Supplies,Online,C
+Clothes,Offline,H
+Fruits,Offline,H
+Beverages,Offline,M
+Fruits,Offline,H
+Beverages,Offline,H
+Vegetables,Offline,C
+Beverages,Offline,L
+Baby Food,Online,M
+Baby Food,Online,C
+Snacks,Online,H
+Beverages,Online,L
+Beverages,Online,C
+Cosmetics,Offline,M
+Cosmetics,Online,M
+Baby Food,Offline,M
+Fruits,Offline,L
+Personal Care,Online,C
+Meat,Online,H
+Personal Care,Online,H
+Cereal,Online,L
+Meat,Offline,H
+Baby Food,Online,C
+Clothes,Online,C
+Clothes,Online,C
+Cosmetics,Offline,M
+Snacks,Offline,H
+Clothes,Offline,M
+Office Supplies,Offline,M
+Snacks,Online,L
+Office Supplies,Online,M
+Clothes,Offline,H
+Vegetables,Online,M
+Household,Offline,L
+Clothes,Offline,L
+Cosmetics,Offline,L
+Clothes,Online,L
+Snacks,Online,C
+Fruits,Online,L
+Baby Food,Offline,H
+Snacks,Offline,M
+Personal Care,Online,H
+Beverages,Online,M
+Meat,Offline,C
+Clothes,Offline,M
+Fruits,Online,M
+Cosmetics,Offline,M
+Baby Food,Online,M
+Snacks,Offline,H
+Beverages,Offline,C
+Cosmetics,Online,H
+Household,Online,M
+Fruits,Offline,H
+Snacks,Online,M
+Baby Food,Online,H
+Household,Online,M
+Cosmetics,Offline,C
+Fruits,Offline,H
+Cereal,Online,H
+Fruits,Offline,L
+Beverages,Online,H
+Vegetables,Online,C
+Meat,Offline,H
+Household,Offline,C
+Personal Care,Online,C
+Vegetables,Offline,H
+Personal Care,Offline,H
+Cereal,Online,L
+Meat,Offline,M
+Meat,Offline,L
+Office Supplies,Offline,L
+Snacks,Offline,L
+Beverages,Offline,L
+Baby Food,Online,H
+Vegetables,Online,C
+Baby Food,Offline,L
+Snacks,Online,M
+Cereal,Offline,M
+Meat,Offline,L
+Snacks,Online,M
+Clothes,Online,C
+Baby Food,Offline,L
+Cereal,Offline,L
+Meat,Online,M
+Household,Online,H
+Beverages,Online,M
+Office Supplies,Online,C
+Office Supplies,Online,L
+Beverages,Offline,M
+Baby Food,Online,L
+Personal Care,Offline,M
+Personal Care,Online,M
+Household,Offline,H
+Personal Care,Online,M
+Baby Food,Offline,H
+Vegetables,Online,L
+Cosmetics,Offline,C
+Snacks,Offline,M
+Household,Online,M
+Beverages,Online,M
+Personal Care,Offline,L
+Baby Food,Offline,H
+Beverages,Offline,C
+Office Supplies,Online,L
+Fruits,Offline,H
+Fruits,Online,H
+Baby Food,Online,C
+Cosmetics,Offline,L
+Fruits,Online,L
+Snacks,Online,C
+Cereal,Offline,M
+Office Supplies,Online,C
+Beverages,Offline,H
+Beverages,Online,M
+Vegetables,Offline,M
+Fruits,Offline,H
+Office Supplies,Online,L
+Snacks,Online,M
+Cereal,Online,C
+Beverages,Online,L
+Beverages,Offline,H
+Household,Offline,C
+Office Supplies,Online,C
+Clothes,Online,H
+Clothes,Offline,L
+Household,Online,M
+Household,Online,M
+Snacks,Online,H
+Baby Food,Online,M
+Cosmetics,Online,M
+Cereal,Online,L
+Meat,Online,H
+Baby Food,Online,H
+Vegetables,Online,M
+Clothes,Offline,L
+Snacks,Offline,L
+Beverages,Offline,H
+Fruits,Offline,C
+Beverages,Online,H
+Fruits,Offline,H
+Baby Food,Offline,H
+Vegetables,Online,M
+Beverages,Online,M
+Clothes,Offline,M
+Office Supplies,Online,L
+Household,Offline,C
+Snacks,Online,M
+Household,Offline,L
+Office Supplies,Online,H
+Meat,Offline,H
+Baby Food,Online,H
+Fruits,Offline,L
+Fruits,Offline,H
+Cereal,Offline,H
+Personal Care,Offline,L
+Household,Offline,L
+Cereal,Offline,M
+Personal Care,Online,M
+Clothes,Online,H
+Cosmetics,Offline,L
+Cosmetics,Offline,C
+Fruits,Offline,M
+Clothes,Offline,M
+Snacks,Online,L
+Household,Online,C
+Office Supplies,Offline,M
+Snacks,Online,M
+Cereal,Online,L
+Beverages,Offline,M
+Cereal,Offline,L
+Fruits,Online,L
+Cereal,Offline,L
+Baby Food,Offline,H
+Personal Care,Offline,C
+Cereal,Offline,L
+Beverages,Offline,C
+Cosmetics,Offline,M
+Cosmetics,Offline,H
+Household,Offline,L
+Baby Food,Online,H
+Clothes,Online,H
+Baby Food,Offline,L
+Fruits,Online,L
+Office Supplies,Offline,M
+Snacks,Offline,L
+Fruits,Offline,H
+Beverages,Offline,C
+Office Supplies,Online,H
+Clothes,Offline,M
+Fruits,Offline,H
+Cereal,Online,H
+Cosmetics,Offline,C
+Personal Care,Online,C
+Cosmetics,Online,H
+Clothes,Online,M
+Baby Food,Online,C
+Household,Online,H
+Fruits,Online,M
+Fruits,Offline,C
+Cosmetics,Offline,M
+Cosmetics,Offline,C
+Household,Online,H
+Clothes,Offline,M
+Household,Offline,C
+Fruits,Online,M
+Household,Online,H
+Personal Care,Online,M
+Beverages,Online,C
+Fruits,Online,L
+Office Supplies,Online,M
+Snacks,Online,M
+Cereal,Offline,M
+Vegetables,Online,M
+Fruits,Online,C
+Snacks,Offline,L
+Vegetables,Offline,H
+Clothes,Offline,H
+Fruits,Online,H
+Household,Online,M
+Beverages,Online,H
+Household,Offline,C
+Clothes,Offline,L
+Household,Online,M
+Cereal,Offline,C
+Vegetables,Online,H
+Beverages,Offline,L
+Baby Food,Online,L
+Baby Food,Offline,H
+Beverages,Offline,L
+Beverages,Offline,M
+Beverages,Offline,M
+Beverages,Offline,C
+Household,Online,L
+Cereal,Offline,M
+Household,Online,L
+Cereal,Offline,H
+Beverages,Online,C
+Personal Care,Offline,H
+Vegetables,Offline,M
+Household,Online,C
+Household,Online,C
+Personal Care,Offline,M
+Fruits,Offline,M
+Beverages,Online,M
+Vegetables,Online,H
+Vegetables,Offline,H
+Household,Online,H
+Baby Food,Offline,M
+Baby Food,Online,M
+Cereal,Online,C
+Household,Online,H
+Fruits,Offline,M
+Beverages,Online,L
+Baby Food,Online,H
+Personal Care,Offline,H
+Clothes,Online,C
+Vegetables,Online,C
+Office Supplies,Offline,H
+Personal Care,Online,M
+Clothes,Online,H
+Meat,Offline,M
+Office Supplies,Offline,C
+Beverages,Offline,M
+Personal Care,Online,H
+Personal Care,Offline,C
+Fruits,Online,M
+Clothes,Offline,H
+Vegetables,Offline,C
+Clothes,Offline,L
+Fruits,Online,C
+Office Supplies,Offline,L
+Fruits,Online,L
+Vegetables,Online,C
+Office Supplies,Online,H
+Baby Food,Offline,L
+Personal Care,Offline,H
+Meat,Offline,H
+Cosmetics,Online,M
+Clothes,Offline,L
+Personal Care,Offline,L
+Meat,Offline,L
+Household,Online,M
+Baby Food,Online,M
+Vegetables,Offline,H
+Office Supplies,Online,L
+Cereal,Offline,M
+Snacks,Online,C
+Fruits,Online,M
+Household,Online,C
+Household,Online,M
+Meat,Offline,M
+Vegetables,Offline,C
+Vegetables,Online,M
+Household,Offline,M
+Fruits,Online,L
+Baby Food,Offline,M
+Household,Online,M
+Fruits,Offline,M
+Fruits,Online,C
+Vegetables,Online,L
+Baby Food,Offline,C
+Household,Offline,L
+Clothes,Offline,H
+Personal Care,Online,M
+Vegetables,Online,C
+Cosmetics,Offline,C
+Baby Food,Offline,M
+Cereal,Online,C
+Baby Food,Online,M
+Snacks,Offline,H
+Fruits,Online,L
+Snacks,Online,C
+Fruits,Online,M
+Cereal,Online,L
+Personal Care,Offline,C
+Fruits,Offline,C
+Fruits,Offline,C
+Baby Food,Online,M
+Vegetables,Online,M
+Meat,Online,H
+Vegetables,Online,H
+Snacks,Offline,M
+Household,Online,C
+Clothes,Online,M
+Meat,Offline,C
+Clothes,Offline,L
+Snacks,Online,M
+Cosmetics,Offline,M
+Cosmetics,Offline,M
+Cereal,Online,H
+Baby Food,Offline,H
+Cosmetics,Online,M
+Office Supplies,Online,M
+Beverages,Online,H
+Office Supplies,Offline,H
+Clothes,Online,L
+Personal Care,Online,M
+Household,Offline,H
+Vegetables,Offline,M
+Vegetables,Offline,L
+Snacks,Offline,C
+Vegetables,Offline,C
+Beverages,Online,C
+Baby Food,Online,L
+Vegetables,Online,M
+Fruits,Online,C
+Meat,Offline,C
+Baby Food,Offline,M
+Office Supplies,Offline,L
+Household,Offline,M
+Cereal,Online,C
+Meat,Online,M
+Fruits,Offline,L
+Household,Online,M
+Cereal,Offline,M
+Snacks,Online,C
+Baby Food,Online,L
+Personal Care,Offline,L
+Household,Offline,M
+Cosmetics,Online,H
+Beverages,Online,L
+Household,Offline,L
+Baby Food,Offline,L
+Clothes,Offline,L
+Fruits,Online,M
+Baby Food,Online,M
+Office Supplies,Offline,M
+Clothes,Online,H
+Cosmetics,Offline,H
+Beverages,Online,L
+Baby Food,Offline,C
+Office Supplies,Online,C
+Beverages,Online,C
+Personal Care,Offline,M
+Baby Food,Online,L
+Beverages,Online,M
+Clothes,Offline,C
+Fruits,Offline,C
+Household,Online,C
+Meat,Offline,L
+Snacks,Online,L
+Cereal,Offline,H
+Fruits,Offline,C
+Office Supplies,Online,L
+Office Supplies,Offline,L
+Vegetables,Offline,C
+Beverages,Online,M
+Snacks,Offline,M
+Clothes,Online,C
+Fruits,Online,L
+Snacks,Online,L
+Baby Food,Online,L
+Beverages,Online,H
+Cereal,Online,H
+Vegetables,Offline,M
+Cosmetics,Online,C
+Vegetables,Offline,L
+Beverages,Online,M
+Household,Offline,H
+Meat,Online,H
+Baby Food,Online,H
+Baby Food,Offline,L
+Beverages,Offline,M
+Fruits,Offline,H
+Vegetables,Online,H
+Household,Offline,L
+Vegetables,Online,L
+Personal Care,Offline,C
+Office Supplies,Offline,M
+Baby Food,Offline,L
+Cosmetics,Offline,M
+Clothes,Online,C
+Personal Care,Online,H
+Vegetables,Offline,L
+Household,Online,H
+Cereal,Offline,L
+Beverages,Online,C
+Snacks,Offline,L
+Beverages,Online,L
+Personal Care,Online,M
+Clothes,Offline,H
+Clothes,Online,M
+Vegetables,Offline,H
+Personal Care,Offline,H
+Fruits,Online,C
+Fruits,Online,M
+Baby Food,Offline,L
+Vegetables,Offline,H
+Household,Offline,H
+Personal Care,Offline,M
+Cosmetics,Online,H
+Cereal,Online,H
+Cosmetics,Offline,L
+Beverages,Online,L
+Cereal,Online,M
+Beverages,Online,H
+Baby Food,Online,C
+Meat,Offline,C
+Beverages,Online,C
+Cereal,Offline,M
+Office Supplies,Offline,M
+Personal Care,Offline,M
+Beverages,Offline,H
+Beverages,Offline,C
+Personal Care,Offline,L
+Office Supplies,Online,H
+Vegetables,Online,C
+Meat,Offline,M
+Clothes,Offline,L
+Cosmetics,Online,C
+Vegetables,Online,M
+Cosmetics,Offline,M
+Cosmetics,Offline,C
+Baby Food,Online,H
+Cereal,Online,H
+Baby Food,Online,L
+Beverages,Online,H
+Fruits,Offline,M
+Beverages,Offline,H
+Vegetables,Online,C
+Vegetables,Offline,C
+Baby Food,Online,M
+Baby Food,Offline,M
+Office Supplies,Offline,C
+Household,Online,M
+Personal Care,Offline,M
+Personal Care,Offline,L
+Vegetables,Offline,C
+Baby Food,Online,L
+Cosmetics,Online,C
+Snacks,Online,M
+Office Supplies,Online,L
+Clothes,Offline,C
+Baby Food,Offline,C
+Baby Food,Online,M
+Clothes,Online,L
+Beverages,Offline,L
+Fruits,Offline,H
+Vegetables,Online,L
+Clothes,Offline,H
+Snacks,Online,M
+Fruits,Offline,H
+Baby Food,Online,M
+Meat,Online,H
+Clothes,Offline,H
+Cereal,Online,M
+Cosmetics,Online,M
+Fruits,Offline,L
+Snacks,Offline,L
+Baby Food,Offline,M
+Cosmetics,Online,C
+Cosmetics,Offline,L
+Vegetables,Offline,H
+Fruits,Offline,C
+Cosmetics,Online,C
+Personal Care,Offline,M
+Office Supplies,Offline,L
+Cereal,Offline,C
+Office Supplies,Online,M
+Personal Care,Online,L
+Vegetables,Online,C
+Household,Online,L
+Cereal,Offline,M
+Meat,Online,L
+Vegetables,Online,M
+Cosmetics,Offline,H
+Office Supplies,Online,C
+Meat,Offline,M
+Personal Care,Online,H
+Beverages,Online,M
+Personal Care,Online,C
+Clothes,Online,L
+Fruits,Online,L
+Cereal,Offline,H
+Beverages,Online,L
+Personal Care,Online,L
+Clothes,Online,M
+Beverages,Online,L
+Personal Care,Offline,H
+Cosmetics,Online,L
+Cereal,Offline,M
+Personal Care,Online,H
+Clothes,Offline,H
+Clothes,Online,M
+Personal Care,Offline,L
+Vegetables,Online,M
+Household,Offline,C
+Meat,Online,C
+Meat,Offline,C
+Vegetables,Offline,M
+Meat,Online,M
+Personal Care,Offline,H
+Beverages,Online,L
+Beverages,Online,M
+Personal Care,Online,L
+Office Supplies,Online,L
+Cosmetics,Offline,M
+Cosmetics,Online,M
+Cereal,Online,L
+Baby Food,Offline,C
+Meat,Online,L
+Office Supplies,Offline,H
+Fruits,Offline,L
+Household,Online,C
+Baby Food,Online,M
+Clothes,Offline,C
+Cosmetics,Offline,M
+Personal Care,Online,H
+Beverages,Online,M
+Personal Care,Offline,C
+Fruits,Offline,C
+Baby Food,Offline,M
+Personal Care,Online,L
+Beverages,Offline,L
+Meat,Online,L
+Cosmetics,Offline,L
+Cosmetics,Online,M
+Cosmetics,Online,L
+Vegetables,Offline,H
+Fruits,Online,H
+Snacks,Offline,L
+Office Supplies,Offline,L
+Beverages,Offline,L
+Meat,Offline,L
+Snacks,Offline,M
+Beverages,Offline,C
+Office Supplies,Offline,H
+Cereal,Offline,H
+Vegetables,Offline,C
+Beverages,Offline,M
+Cereal,Online,C
+Fruits,Online,H
+Household,Offline,L
+Personal Care,Online,C
+Cereal,Offline,M
+Fruits,Offline,H
+Baby Food,Online,H
+Fruits,Online,L
+Clothes,Offline,M
+Vegetables,Online,M
+Meat,Offline,M
+Baby Food,Online,L
+Cosmetics,Offline,H
+Personal Care,Online,H
+Office Supplies,Offline,H
+Cereal,Offline,H
+Household,Offline,M
+Vegetables,Online,C
+Baby Food,Offline,L
+Clothes,Offline,C
+Office Supplies,Offline,L
+Clothes,Online,H
+Meat,Offline,C
+Fruits,Offline,C
+Personal Care,Offline,M
+Cereal,Online,L
+Baby Food,Online,L
+Clothes,Offline,H
+Meat,Online,H
+Personal Care,Offline,C
+Snacks,Offline,M
+Meat,Online,H
+Vegetables,Online,M
+Vegetables,Offline,H
+Cosmetics,Online,H
+Household,Offline,M
+Fruits,Online,L
+Household,Offline,H
+Fruits,Online,M
+Meat,Offline,H
+Personal Care,Online,L
+Snacks,Online,L
+Vegetables,Online,L
+Fruits,Offline,M
+Office Supplies,Online,C
+Baby Food,Offline,M
+Personal Care,Online,C
+Cereal,Online,M
+Cereal,Offline,M
+Vegetables,Offline,C
+Cosmetics,Online,H
+Fruits,Offline,L
+Clothes,Offline,L
+Cereal,Offline,H
+Office Supplies,Offline,H
+Beverages,Online,L
+Personal Care,Offline,H
+Meat,Online,L
+Meat,Offline,M
+Office Supplies,Online,M
+Beverages,Online,M
+Snacks,Online,H
+Personal Care,Online,M
+Snacks,Offline,L
+Beverages,Offline,H
+Fruits,Online,H
+Baby Food,Offline,L
+Meat,Offline,L
+Clothes,Offline,M
+Beverages,Offline,C
+Snacks,Online,H
+Personal Care,Online,M
+Clothes,Offline,H
+Cosmetics,Offline,M
+Office Supplies,Offline,M
+Fruits,Online,H
+Baby Food,Offline,L
+Cosmetics,Offline,L
+Baby Food,Online,H
+Snacks,Offline,M
+Snacks,Online,C
+Cereal,Online,C
+Household,Offline,C
+Meat,Offline,M
+Vegetables,Offline,C
+Fruits,Offline,C
+Household,Online,C
+Office Supplies,Online,M
+Beverages,Offline,L
+Clothes,Online,L
+Fruits,Online,H
+Snacks,Online,M
+Household,Online,C
+Beverages,Online,M
+Household,Online,C
+Baby Food,Offline,H
+Clothes,Offline,H
+Beverages,Offline,C
+Cereal,Online,L
+Cosmetics,Online,C
+Meat,Offline,H
+Baby Food,Offline,L
+Clothes,Offline,C
+Office Supplies,Offline,L
+Cosmetics,Offline,H
+Vegetables,Offline,H
+Beverages,Online,L
+Cereal,Online,M
+Snacks,Offline,C
+Cosmetics,Online,C
+Household,Offline,L
+Office Supplies,Online,H
+Snacks,Online,L
+Household,Offline,L
+Office Supplies,Online,H
+Meat,Offline,H
+Fruits,Offline,M
+Cosmetics,Offline,M
+Cosmetics,Online,C
+Household,Offline,H
+Meat,Online,H
+Clothes,Offline,H
+Vegetables,Online,M
+Cereal,Online,H
+Household,Online,C
+Clothes,Online,M
+Baby Food,Offline,M
+Baby Food,Online,M
+Beverages,Online,L
+Office Supplies,Offline,L
+Meat,Online,C
+Personal Care,Online,C
+Personal Care,Online,M
+Clothes,Offline,H
+Beverages,Online,H
+Cereal,Online,L
+Beverages,Online,M
+Fruits,Offline,C
+Personal Care,Online,C
+Clothes,Offline,L
+Baby Food,Online,L
+Beverages,Online,C
+Household,Offline,M
+Clothes,Offline,C
+Cereal,Online,C
+Cereal,Online,H
+Office Supplies,Online,L
+Vegetables,Offline,L
+Meat,Online,M
+Beverages,Offline,L
+Baby Food,Offline,M
+Clothes,Online,M
+Vegetables,Online,H
+Personal Care,Offline,L
+Household,Offline,C
+Cereal,Online,C
+Beverages,Online,H
+Meat,Offline,H
+Household,Offline,M
+Clothes,Offline,L
+Office Supplies,Online,M
+Household,Offline,H
+Cosmetics,Online,L
+Snacks,Online,C
+Baby Food,Online,H
+Office Supplies,Offline,M
+Office Supplies,Offline,L
+Meat,Offline,M
+Beverages,Online,H
+Beverages,Offline,H
+Household,Online,L
+Cosmetics,Offline,L
+Office Supplies,Online,M
+Meat,Online,L
+Baby Food,Offline,L
+Beverages,Offline,M
+Clothes,Online,M
+Fruits,Online,M
+Clothes,Online,M
+Baby Food,Online,C
+Baby Food,Offline,L
+Office Supplies,Offline,C
+Cosmetics,Online,H
+Personal Care,Online,L
+Personal Care,Offline,M
+Fruits,Online,H
+Vegetables,Offline,C
+Beverages,Online,M
+Meat,Online,L
+Beverages,Offline,C
+Household,Online,L
+Fruits,Online,L
+Cosmetics,Offline,M
+Clothes,Offline,M
+Cosmetics,Online,L
+Snacks,Offline,M
+Household,Online,C
+Snacks,Offline,M
+Fruits,Online,L
+Clothes,Online,H
+Fruits,Online,C
+Meat,Offline,M
+Beverages,Online,L
+Office Supplies,Offline,L
+Cosmetics,Offline,L
+Snacks,Online,H
+Personal Care,Online,C
+Snacks,Online,C
+Household,Offline,H
+Cosmetics,Offline,L
+Office Supplies,Online,M
+Office Supplies,Offline,C
+Snacks,Online,H
+Clothes,Online,C
+Personal Care,Online,H
+Fruits,Offline,C
+Baby Food,Online,C
+Household,Offline,H
+Vegetables,Online,H
+Personal Care,Online,L
+Office Supplies,Offline,L
+Cosmetics,Offline,M
+Beverages,Online,M
+Household,Offline,M
+Cosmetics,Offline,C
+Personal Care,Offline,M
+Meat,Online,C
+Household,Offline,C
+Personal Care,Online,H
+Cereal,Offline,M
+Fruits,Online,C
+Snacks,Offline,L
+Beverages,Online,H
+Clothes,Online,M
+Personal Care,Online,H
+Office Supplies,Online,M
+Fruits,Offline,H
+Baby Food,Online,L
+Meat,Online,C
+Personal Care,Offline,C
+Snacks,Online,H
+Beverages,Offline,L
+Vegetables,Offline,C
+Personal Care,Offline,C
+Baby Food,Offline,C
+Snacks,Offline,C
+Vegetables,Online,L
+Household,Offline,L
+Snacks,Offline,C
+Snacks,Online,H
+Personal Care,Online,L
+Baby Food,Online,L
+Personal Care,Online,L
+Fruits,Offline,L
+Office Supplies,Offline,M
+Clothes,Offline,C
+Personal Care,Offline,L
+Fruits,Online,M
+Cereal,Online,L
+Fruits,Online,M
+Beverages,Offline,L
+Cereal,Online,H
+Household,Offline,M
+Household,Offline,C
+Snacks,Online,C
+Beverages,Offline,M
+Meat,Offline,C
+Fruits,Online,C
+Personal Care,Offline,H
+Baby Food,Offline,C
+Household,Offline,C
+Cosmetics,Offline,C
+Vegetables,Offline,L
+Meat,Offline,M
+Personal Care,Offline,L
+Household,Offline,M
+Vegetables,Offline,H
+Clothes,Online,L
+Vegetables,Offline,H
+Beverages,Offline,M
+Beverages,Offline,H
+Beverages,Offline,C
+Cosmetics,Offline,M
+Cosmetics,Online,L
+Cereal,Offline,M
+Cosmetics,Offline,C
+Vegetables,Online,L
+Clothes,Offline,M
+Cosmetics,Offline,C
+Clothes,Online,H
+Beverages,Offline,M
+Household,Offline,M
+Office Supplies,Offline,L
+Snacks,Online,C
+Vegetables,Offline,H
+Vegetables,Online,H
+Baby Food,Offline,L
+Snacks,Online,H
+Household,Online,C
+Snacks,Offline,H
+Cosmetics,Offline,M
+Clothes,Online,C
+Cosmetics,Online,M
+Meat,Online,C
+Cosmetics,Online,M
+Beverages,Online,H
+Cereal,Online,C
+Office Supplies,Offline,H
+Cereal,Online,L
+Office Supplies,Offline,H
+Household,Offline,H
+Beverages,Online,C
+Fruits,Offline,L
+Household,Offline,L
+Baby Food,Offline,L
+Cosmetics,Offline,M
+Snacks,Online,H
+Clothes,Online,C
+Office Supplies,Offline,H
+Office Supplies,Offline,L
+Cosmetics,Offline,H
+Baby Food,Online,L
+Cereal,Online,L
+Beverages,Online,M
+Vegetables,Online,C
+Meat,Offline,M
+Vegetables,Offline,M
+Clothes,Online,H
+Personal Care,Online,C
+Meat,Offline,L
+Cosmetics,Online,H
+Fruits,Online,M
+Cereal,Online,C
+Fruits,Offline,L
+Baby Food,Offline,H
+Personal Care,Online,M
+Fruits,Offline,M
+Baby Food,Online,L
+Beverages,Offline,H
+Cereal,Offline,M
+Cereal,Online,L
+Baby Food,Offline,M
+Fruits,Online,L
+Clothes,Online,M
+Beverages,Offline,L
+Fruits,Offline,H
+Cosmetics,Online,H
+Baby Food,Offline,H
+Beverages,Online,M
+Fruits,Online,L
+Beverages,Online,H
+Baby Food,Offline,L
+Office Supplies,Offline,C
+Baby Food,Online,H
+Personal Care,Offline,M
+Beverages,Offline,H
+Office Supplies,Offline,M
+Beverages,Online,L
+Personal Care,Online,C
+Baby Food,Online,C
+Vegetables,Offline,L
+Baby Food,Offline,C
+Baby Food,Online,C
+Meat,Offline,M
+Vegetables,Online,L
+Household,Online,M
+Cereal,Offline,H
+Personal Care,Offline,C
+Personal Care,Offline,C
+Baby Food,Offline,C
+Cereal,Online,H
+Meat,Offline,L
+Office Supplies,Online,C
+Fruits,Online,L
+Cosmetics,Online,M
+Office Supplies,Offline,M
+Beverages,Offline,C
+Household,Offline,M
+Personal Care,Online,H
+Household,Online,M
+Vegetables,Offline,C
+Meat,Online,M
+Personal Care,Online,M
+Vegetables,Online,L
+Beverages,Online,C
+Beverages,Online,M
+Office Supplies,Online,M
+Clothes,Offline,C
+Beverages,Online,H
+Cereal,Offline,L
+Cosmetics,Online,C
+Baby Food,Online,M
+Meat,Online,M
+Vegetables,Online,H
+Cereal,Offline,C
+Meat,Online,H
+Snacks,Offline,C
+Snacks,Online,H
+Meat,Online,L
+Fruits,Online,M
+Vegetables,Offline,L
+Clothes,Online,H
+Meat,Offline,H
+Household,Offline,L
+Baby Food,Offline,M
+Vegetables,Online,L
+Office Supplies,Offline,M
+Snacks,Offline,L
+Cosmetics,Offline,M
+Beverages,Offline,M
+Vegetables,Offline,M
+Baby Food,Offline,L
+Baby Food,Offline,L
+Meat,Online,L
+Household,Offline,C
+Office Supplies,Online,M
+Clothes,Offline,M
+Meat,Offline,M
+Office Supplies,Online,L
+Vegetables,Offline,M
+Household,Online,M
+Cereal,Online,L
+Baby Food,Offline,C
+Snacks,Online,C
+Beverages,Online,L
+Office Supplies,Online,H
+Meat,Offline,H
+Fruits,Offline,C
+Household,Online,M
+Clothes,Online,M
+Cosmetics,Online,M
+Snacks,Offline,M
+Fruits,Offline,L
+Fruits,Offline,H
+Fruits,Offline,L
+Household,Online,L
+Beverages,Offline,H
+Fruits,Online,M
+Beverages,Online,L
+Cereal,Offline,M
+Household,Online,M
+Beverages,Online,M
+Office Supplies,Offline,C
+Fruits,Online,C
+Baby Food,Offline,C
+Office Supplies,Online,H
+Baby Food,Offline,C
+Office Supplies,Online,C
+Beverages,Online,H
+Baby Food,Online,M
+Snacks,Online,H
+Clothes,Offline,L
+Household,Online,C
+Beverages,Offline,M
+Cosmetics,Online,M
+Meat,Online,H
+Personal Care,Online,H
+Vegetables,Online,H
+Cosmetics,Online,C
+Beverages,Online,M
+Snacks,Offline,M
+Meat,Online,L
+Cosmetics,Online,M
+Cosmetics,Offline,M
+Personal Care,Offline,C
+Personal Care,Online,C
+Fruits,Offline,M
+Meat,Online,M
+Cereal,Online,M
+Beverages,Offline,H
+Household,Offline,M
+Cereal,Online,H
+Personal Care,Offline,L
+Household,Online,H
+Clothes,Offline,L
+Fruits,Offline,L
+Fruits,Online,M
+Baby Food,Offline,H
+Personal Care,Offline,H
+Cereal,Online,M
+Vegetables,Online,H
+Fruits,Offline,H
+Meat,Online,H
+Beverages,Offline,C
+Baby Food,Offline,L
+Meat,Online,C
+Personal Care,Online,M
+Beverages,Online,H
+Personal Care,Online,H
+Baby Food,Offline,C
+Cosmetics,Online,C
+Fruits,Offline,L
+Fruits,Offline,M
+Baby Food,Online,L
+Office Supplies,Offline,C
+Fruits,Offline,M
+Cosmetics,Online,L
+Clothes,Online,L
+Personal Care,Offline,M
+Cereal,Online,C
+Personal Care,Offline,C
+Office Supplies,Offline,L
+Snacks,Online,M
+Beverages,Online,L
+Household,Online,H
+Fruits,Online,C
+Office Supplies,Offline,C
+Baby Food,Online,M
+Clothes,Online,M
+Meat,Online,H
+Meat,Online,L
+Personal Care,Online,M
+Baby Food,Offline,L
+Fruits,Online,L
+Office Supplies,Online,M
+Beverages,Online,L
+Household,Online,C
+Snacks,Offline,M
+Vegetables,Offline,M
+Cereal,Online,H
+Beverages,Online,M
+Meat,Offline,M
+Office Supplies,Offline,H
+Meat,Online,C
+Beverages,Online,C
+Vegetables,Offline,L
+Baby Food,Offline,L
+Cosmetics,Online,C
+Baby Food,Online,L
+Household,Online,H
+Cosmetics,Offline,C
+Meat,Online,H
+Vegetables,Online,L
+Clothes,Online,C
+Cosmetics,Online,L
+Meat,Offline,C
+Cosmetics,Offline,C
+Household,Online,H
+Vegetables,Offline,M
+Personal Care,Offline,H
+Household,Offline,M
+Household,Offline,C
+Clothes,Offline,L
+Beverages,Offline,L
+Cereal,Offline,M
+Cereal,Online,C
+Household,Online,C
+Household,Online,M
+Personal Care,Online,M
+Cereal,Online,L
+Office Supplies,Offline,C
+Cosmetics,Offline,C
+Meat,Online,C
+Clothes,Online,L
+Baby Food,Offline,C
+Meat,Offline,C
+Beverages,Online,C
+Meat,Offline,H
+Snacks,Online,L
+Beverages,Offline,M
+Cosmetics,Offline,H
+Office Supplies,Online,M
+Cereal,Online,L
+Household,Online,M
+Office Supplies,Online,C
+Snacks,Online,H
+Beverages,Online,M
+Beverages,Offline,H
+Beverages,Offline,H
+Snacks,Online,M
+Personal Care,Online,H
+Baby Food,Online,M
+Snacks,Online,C
+Clothes,Online,M
+Fruits,Offline,C
+Cereal,Offline,M
+Office Supplies,Offline,M
+Clothes,Offline,H
+Fruits,Offline,C
+Vegetables,Online,H
+Snacks,Offline,H
+Baby Food,Online,L
+Clothes,Offline,C
+Beverages,Offline,L
+Office Supplies,Offline,C
+Snacks,Online,C
+Beverages,Online,C
+Fruits,Online,L
+Fruits,Offline,C
+Office Supplies,Online,L
+Baby Food,Offline,H
+Office Supplies,Offline,L
+Household,Offline,C
+Baby Food,Online,M
+Fruits,Offline,L
+Household,Offline,M
+Snacks,Online,M
+Household,Online,H
+Beverages,Online,M
+Cosmetics,Offline,H
+Beverages,Online,L
+Snacks,Offline,L
+Cereal,Offline,H
+Cosmetics,Offline,L
+Fruits,Offline,C
+Personal Care,Online,C
+Cereal,Online,M
+Baby Food,Offline,H
+Baby Food,Online,L
+Cosmetics,Offline,H
+Cereal,Online,H
+Household,Online,L
+Vegetables,Offline,M
+Snacks,Online,L
+Vegetables,Offline,C
+Personal Care,Online,C
+Personal Care,Online,C
+Clothes,Online,C
+Cereal,Offline,H
+Snacks,Offline,M
+Snacks,Offline,M
+Cosmetics,Offline,H
+Meat,Online,C
+Clothes,Online,C
+Office Supplies,Online,C
+Vegetables,Offline,M
+Clothes,Online,C
+Office Supplies,Offline,M
+Meat,Online,H
+Vegetables,Offline,C
+Cosmetics,Online,L
+Cosmetics,Online,C
+Fruits,Online,L
+Personal Care,Offline,M
+Beverages,Online,L
+Cosmetics,Online,L
+Baby Food,Offline,C
+Cosmetics,Offline,H
+Cosmetics,Online,M
+Household,Online,L
+Beverages,Online,M
+Office Supplies,Offline,H
+Fruits,Offline,L
+Snacks,Online,C
+Cosmetics,Online,C
+Office Supplies,Offline,H
+Vegetables,Offline,M
+Baby Food,Offline,H
+Cereal,Offline,M
+Office Supplies,Offline,L
+Personal Care,Online,C
+Fruits,Online,C
+Clothes,Offline,M
+Household,Offline,M
+Fruits,Online,C
+Snacks,Online,L
+Meat,Online,H
+Office Supplies,Offline,H
+Personal Care,Offline,L
+Baby Food,Offline,C
+Office Supplies,Online,M
+Snacks,Offline,L
+Clothes,Online,H
+Baby Food,Online,L
+Beverages,Online,L
+Cosmetics,Offline,H
+Baby Food,Offline,L
+Beverages,Offline,L
+Cereal,Offline,M
+Personal Care,Online,M
+Personal Care,Offline,L
+Cosmetics,Online,H
+Cereal,Offline,M
+Office Supplies,Online,C
+Household,Online,M
+Snacks,Offline,C
+Vegetables,Online,L
+Clothes,Online,C
+Personal Care,Online,H
+Cosmetics,Online,H
+Snacks,Online,M
+Beverages,Offline,M
+Vegetables,Offline,C
+Office Supplies,Online,H
+Beverages,Online,M
+Baby Food,Online,M
+Vegetables,Offline,M
+Clothes,Online,L
+Snacks,Offline,C
+Vegetables,Offline,C
+Household,Online,C
+Office Supplies,Offline,M
+Clothes,Online,C
+Cereal,Online,C
+Household,Offline,H
+Personal Care,Offline,H
+Snacks,Offline,M
+Meat,Online,C
+Office Supplies,Online,L
+Meat,Online,M
+Office Supplies,Online,H
+Snacks,Offline,H
+Vegetables,Offline,H
+Meat,Offline,H
+Personal Care,Online,L
+Fruits,Online,M
+Office Supplies,Offline,L
+Personal Care,Online,C
+Clothes,Offline,C
+Beverages,Online,H
+Cereal,Online,M

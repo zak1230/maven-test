@@ -1,0 +1,31 @@
+{
+  Region: "????" as String {class: "java.lang.String"},
+  Country: "????" as String {class: "java.lang.String"},
+  "Item Type": "????" as String {class: "java.lang.String"},
+  "Sales Channel": "????" as String {class: "java.lang.String"},
+  "Order Priority": "????" as String {class: "java.lang.String"},
+  "Order Date": "????" as String {class: "java.lang.String"},
+  "Order ID": "????" as String {class: "java.lang.String"},
+  "Ship Date": "????" as String {class: "java.lang.String"},
+  "Units Sold": "????" as String {class: "java.lang.String"},
+  "Unit Price": "????" as String {class: "java.lang.String"},
+  "Unit Cost": "????" as String {class: "java.lang.String"},
+  "Total Revenue": "????" as String {class: "java.lang.String"},
+  "Total Cost": "????" as String {class: "java.lang.String"},
+  "Total Profit": "????" as String {class: "java.lang.String"}
+} as Object {mediaType: "*/*", encoding: "windows-1252", mimeType: "*/*", raw: {
+  Region: "????" as String {class: "java.lang.String"},
+  Country: "????" as String {class: "java.lang.String"},
+  "Item Type": "????" as String {class: "java.lang.String"},
+  "Sales Channel": "????" as String {class: "java.lang.String"},
+  "Order Priority": "????" as String {class: "java.lang.String"},
+  "Order Date": "????" as String {class: "java.lang.String"},
+  "Order ID": "????" as String {class: "java.lang.String"},
+  "Ship Date": "????" as String {class: "java.lang.String"},
+  "Units Sold": "????" as String {class: "java.lang.String"},
+  "Unit Price": "????" as String {class: "java.lang.String"},
+  "Unit Cost": "????" as String {class: "java.lang.String"},
+  "Total Revenue": "????" as String {class: "java.lang.String"},
+  "Total Cost": "????" as String {class: "java.lang.String"},
+  "Total Profit": "????" as String {class: "java.lang.String"}
+} as Object {class: "java.util.LinkedHashMap"}, class: "java.util.LinkedHashMap"}
