@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:vm="http://www.mulesoft.org/schema/mule/vm" xmlns:os="http://www.mulesoft.org/schema/mule/os"
+	xmlns:file="http://www.mulesoft.org/schema/mule/file"
+	xmlns:batch="http://www.mulesoft.org/schema/mule/batch" xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns:db="http://www.mulesoft.org/schema/mule/db" xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
+http://www.mulesoft.org/schema/mule/db http://www.mulesoft.org/schema/mule/db/current/mule-db.xsd
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd
+http://www.mulesoft.org/schema/mule/batch http://www.mulesoft.org/schema/mule/batch/current/mule-batch.xsd
+http://www.mulesoft.org/schema/mule/file http://www.mulesoft.org/schema/mule/file/current/mule-file.xsd
+http://www.mulesoft.org/schema/mule/os http://www.mulesoft.org/schema/mule/os/current/mule-os.xsd
+http://www.mulesoft.org/schema/mule/vm http://www.mulesoft.org/schema/mule/vm/current/mule-vm.xsd">
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="fb368444-642c-4c54-af59-927180c3e523" >
+		<http:listener-connection host="localhost" port="8081" />
+	</http:listener-config>
+	<db:config name="Database_Config" doc:name="Database Config" doc:id="50cf91be-a725-46eb-9370-a848a6a7a443" >
+		<db:my-sql-connection host="localhost" port="3306" user="root" password="Amar1730@" database="sales" />
+	</db:config>
+	<file:config name="File_Config" doc:name="File Config" doc:id="96e63b90-7b02-4fa8-b1ea-b4a116f5f8af" >
+		<file:connection workingDir="C:\ftp_mule\ftpout" />
+	</file:config>
+	<file:config name="File_Config1" doc:name="File Config" doc:id="5b68641c-dbac-4e80-93bd-ed47341bf3f2" >
+		<file:connection workingDir="C:\ftp_mule\ftpout" />
+	</file:config>
+	<file:config name="File_Config2" doc:name="File Config" doc:id="d18cec9a-3192-41e2-a64b-ed41f2ae41ba" >
+		<file:connection workingDir="C:\ftp_mule\ftpin" />
+	</file:config>
+	<file:config name="File_Config3" doc:name="File Config" doc:id="79ae4bf0-c46b-46b9-a1b1-1b945f9f7043" >
+		<file:connection workingDir="C:\ftp_mule\ftpout" />
+	</file:config>
+	<os:object-store name="Object_store" doc:name="Object store" doc:id="00bfa7dd-c7d5-4576-8740-271d8e1ec10a" />
+	<vm:config name="VM_Config" doc:name="VM Config" doc:id="6efadf15-c9cb-4eb1-b09c-5abed3ff44fc" >
+		<vm:queues >
+			<vm:queue queueName="Batch1" />
+		</vm:queues>
+	</vm:config>
+	<file:config name="File_Config4" doc:name="File Config" doc:id="5f1863f3-cae1-470e-9d9e-d236a8927d31" >
+		<file:connection workingDir="C:\ftp_mule\ftpout" />
+	</file:config>
+	<file:config name="File_Config5" doc:name="File Config" doc:id="fadb1dac-1ed2-4515-8c40-886d632929d4" >
+		<file:connection workingDir="C:\AnypointStudio\Training\batch_aggregator_bulk_select\src\main\resources" />
+	</file:config>
+	<flow name="batch_aggregator_bulk_selectFlow" doc:id="4771cd78-c05b-4319-964e-74b4414b9cdf" >
+		<http:listener doc:name="Listener" doc:id="5940e21e-06db-47d0-b452-b2e75b52f37e" config-ref="HTTP_Listener_config" path="/batch">
+			<http:error-response >
+				<http:body ><![CDATA[#[output csv --- error.description]]]></http:body>
+			</http:error-response>
+		</http:listener>
+		<db:select doc:name="Select" doc:id="a59dbe34-6b57-4428-b91a-c6eb340f6ba0" config-ref="Database_Config">
+			<db:sql >select *from recordss;</db:sql>
+		</db:select>
+		<ee:transform doc:name="Transform Message" doc:id="ec785a99-5cee-4eab-92b2-0af95543d234" >
+			<ee:message >
+				<ee:set-payload ><![CDATA[%dw 2.0
+output application/java
+---
+payload]]></ee:set-payload>
+			</ee:message>
+		</ee:transform>
+		<set-variable value="#[sizeOf(payload)]" doc:name="Set Variable" doc:id="8b7139c5-194b-47ff-8f9c-9e589bfa76a7" variableName="size" />
+		<batch:job jobName="batch_aggregator_bulk_selectBatch_Job" doc:id="b6468854-5812-4bb0-8bfc-9da61697d912" blockSize="200">
+			<batch:process-records >
+				<batch:step name="Batch_Step" doc:id="5e1a8f67-c220-4189-8a65-d4c0e05d25dc" acceptPolicy="ALL">
+					<ee:transform doc:name="Transform Message" doc:id="d1273646-80d7-437d-9112-31180196f183" >
+						<ee:message >
+							<ee:set-payload ><![CDATA[%dw 2.0
+output application/java
+---
+{
+	Item:payload."Item",
+	SalesChannel:payload."SalesChannel",
+	OrderPriority:payload."OrderPriority"
+}]]></ee:set-payload>
+						</ee:message>
+					</ee:transform>
+					<logger level="INFO" doc:name="Logger" doc:id="5bd55281-c8a3-435d-910b-9adb378356a5" />
+					<batch:aggregator doc:name="Batch Aggregator" doc:id="53dbc1fe-846a-48b1-bd35-bf3d6dcd8ab3" size="202">
+						<foreach doc:name="For Each" doc:id="e0f6a367-f841-4b16-8558-143aa246e9e4" >
+							<file:write doc:name="Write" doc:id="756a8319-a6a5-4d0c-a189-7f0200b705ed" path="C:\Users\18135\OneDrive\Desktop\Mule Traning\example1.csv" mode="APPEND" />
+						</foreach>
+					</batch:aggregator>
+					<ee:transform doc:name="Transform Message" doc:id="ee14587a-ffae-4692-b9f9-04e38a164d0d" >
+						<ee:message >
+							<ee:set-payload ><![CDATA[%dw 2.0
+output application/csv headerLineNumber = 0 , header = true , separator = ","
+---
+[{
+	Item: payload.Item ,
+	SalesChannel: payload.SalesChannel ,
+	OrderPriority: payload.OrderPriority 
+}]]]></ee:set-payload>
+						</ee:message>
+					</ee:transform>
+				</batch:step>
+			</batch:process-records>
+			<batch:on-complete >
+				<logger level="INFO" doc:name="Logger" doc:id="ef290b05-2674-41e9-83ae-b09ec9e34587" message="message processed "/>
+			</batch:on-complete>
+		</batch:job>
+	</flow>
+</mule>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog>
+    <types:type name="sample" format="csv">
+      <types:shape format="weave" example="record.csv"><![CDATA[%dw 2.0
+type sample = Array<{|
+  Item: String, 
+  SalesChannel: String, 
+  OrderPriority: String
+|}> {"MetadataFormat": "csv"}
+
+]]></types:shape>
+      <types:properties>
+        <types:property name="headerLineNumber" value="0"/>
+        <types:property name="header" value="true"/>
+        <types:property name="isQuotedString" value="false"/>
+        <types:property name="separator" value=","/>
+      </types:properties>
+    </types:type>
+    <types:type name="sample_fle" format="excel">
+      <types:shape format="weave"><![CDATA[%dw 2.0
+type sample_fle = {|
+  Sheet1?: Array<{|
+    Item: String, 
+    SalesChannel: String, 
+    OrderPriority: String
+  |}>
+|} {"MetadataFormat": "excel"}
+
+]]></types:shape>
+    </types:type>
+  </types:catalog>
+  <types:enrichment select="#04c390d7-435d-461f-99fa-b34db17e9d02">
+    <types:processor-declaration>
+      <types:output-event>
+        <types:message>
+          <types:payload type="sample"/>
+        </types:message>
+      </types:output-event>
+    </types:processor-declaration>
+  </types:enrichment>
+  <types:enrichment select="#24393d61-b642-4e90-adee-98dbe6cf4b9d">
+    <types:processor-declaration>
+      <types:output-event>
+        <types:message>
+          <types:payload type="sample"/>
+        </types:message>
+      </types:output-event>
+    </types:processor-declaration>
+  </types:enrichment>
+  <types:enrichment select="#18ff3884-1ebd-4674-90d0-fefe8198c68d"/>
+  <types:enrichment select="#ee14587a-ffae-4692-b9f9-04e38a164d0d">
+    <types:processor-declaration>
+      <types:output-event>
+        <types:message>
+          <types:payload type="sample"/>
+        </types:message>
+      </types:output-event>
+    </types:processor-declaration>
+  </types:enrichment>
+</types:mule>
